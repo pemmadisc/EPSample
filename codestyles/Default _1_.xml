@@ -1,5 +1,6 @@
 <code_scheme name="Default (1)">
   <codeStyleSettings language="Apex">
+    <option name="SPACE_WITHIN_BRACKETS" value="true" />
     <option name="SPACE_WITHIN_BRACES" value="true" />
   </codeStyleSettings>
 </code_scheme>
