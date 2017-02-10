@@ -1,6 +1,17 @@
 <application>
   <component name="IlluminatedCloudSettings">
-    <option name="needsConfigUpgrade" value="false" />
+    <option name="connectionConfigs">
+      <list>
+        <IlluminatedCloudConnectionConfig>
+          <option name="connectionName" value="New Connection" />
+          <option name="loginUrl" value="https://test.salesforce.com/" />
+          <option name="organizationType" value="SANDBOX" />
+          <option name="password" value="dfe7dfebdfd3df9bdf92df9bdf93df92df8e" />
+          <option name="securityToken" value="dfdcdf9ddfc5dfc9dfd3dfe6dfe4dfcfdfc5dffedfc0dfc9df9bdfe2dfcddfc7dfdadfdddfcbdf99dfcbdfcbdfc0dffadfee" />
+          <option name="username" value="pemmadi@snapchat.com.ortizdev" />
+        </IlluminatedCloudConnectionConfig>
+      </list>
+    </option>
     <option name="promptOverrideSaveAllAction" value="false" />
   </component>
 </application>
