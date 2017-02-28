@@ -18,6 +18,12 @@
           <option name="securityToken" value="dfe4dfeedf9ddfd0dfc5dff9dfc2dfe7dfcfdfc8dfd3dfdddf92dfdedfd0dfdbdf9edffcdfc4dfc2df9adf9bdfc2df99dffe" />
           <option name="username" value="pemmadi@snapchat.com.uat" />
         </IlluminatedCloudConnectionConfig>
+        <IlluminatedCloudConnectionConfig>
+          <option name="connectionName" value="Prod" />
+          <option name="password" value="dfe7dfebdfd3df9bdf92df9bdf93df92df8e" />
+          <option name="securityToken" value="dffedf93dfc4dfe2dffbdfe3dfdddfc0dfe6dff9dfeddfe6dfcbdfe8dfdbdfebdff3dfc2dfd8dff0dfc7dfdedfffdfdedfdf" />
+          <option name="username" value="pemmadi@snapchat.com" />
+        </IlluminatedCloudConnectionConfig>
       </list>
     </option>
     <option name="promptOverrideSaveAllAction" value="false" />
